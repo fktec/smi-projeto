@@ -4,3 +4,6 @@
 # Suba os servidores:
 -> localhost:4200 - FRONT	(ng serve)
 -> localhost:800  - BACK
+
+LOGIN: takeshi
+SENHA: 123
